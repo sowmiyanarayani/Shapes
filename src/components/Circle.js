@@ -6,6 +6,7 @@ const Circle = () => {
 		height: '300px',
 		backgroundColor: 'blue',
 		borderRadius: '50%',
+		border: '5px solid green',
 
 	};
 

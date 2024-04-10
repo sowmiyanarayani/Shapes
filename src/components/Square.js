@@ -5,6 +5,7 @@ const Square = () => {
 		width: '100px',
 		height: '100px',
 		backgroundColor: 'red',
+		border: '5px solid green',
 
 	};
 
